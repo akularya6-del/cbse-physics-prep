@@ -1,0 +1,17 @@
+[2026-07-17T00:19:21.247Z] RESULT
+============================================================
+{
+  "success": false,
+  "output": "Failed to authenticate. API Error: 401 {\"error\":\"Unauthorized - Invalid token\"}\n",
+  "parsedOutput": {
+    "sections": [],
+    "codeBlocks": []
+  },
+  "durationMs": 3087,
+  "model": "sonnet",
+  "sandboxMode": "permissive",
+  "workerType": "optimize",
+  "timestamp": "2026-07-17T00:19:21.247Z",
+  "executionId": "optimize_1784247558160_hulgpo",
+  "error": "Process exited with code 1"
+}
