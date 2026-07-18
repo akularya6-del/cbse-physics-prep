@@ -577,7 +577,7 @@ def main(directory):
             failed_pdfs.append(f"{filename}: {str(e)}")
             report_lines.append(f"- FAILED `{filename}`: {str(e)}")
 
-    with open("physics_questions_database.json", "w") as f:
+    with open("data/physics_questions_database.json", "w") as f:
         json.dump(db, f, indent=2)
         
     report_lines.append("")

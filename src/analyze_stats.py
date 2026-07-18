@@ -98,14 +98,14 @@ def calculate_statistical_metrics(topic_qs, all_qs):
 
 def main():
     try:
-        with open('physics_questions_database.json', 'r') as f:
+        with open('data/physics_questions_database.json', 'r') as f:
             db = json.load(f)
     except Exception as e:
         print(f"Error loading DB: {e}")
         sys.exit(1)
         
     try:
-        with open('question_clusters.json', 'r') as f:
+        with open('data/question_clusters.json', 'r') as f:
             clusters = json.load(f)
     except Exception as e:
         print(f"Error loading clusters: {e}")
@@ -191,7 +191,7 @@ def main():
             "statisticalTests": stat_results[tc]
         }
         
-    with open("question_intelligence.json", "w") as f:
+    with open("data/question_intelligence.json", "w") as f:
         json.dump(intelligence_db, f, indent=2)
         
     # Generate analysis_report.md

@@ -7,7 +7,7 @@ import traceback
 
 def main():
     try:
-        with open('physics_questions_database.json', 'r') as f:
+        with open('data/physics_questions_database.json', 'r') as f:
             db = json.load(f)
     except Exception as e:
         print(f"Error loading database: {e}")
@@ -166,7 +166,7 @@ def main():
                 }
             })
 
-    with open("question_clusters.json", "w") as f:
+    with open("data/question_clusters.json", "w") as f:
         json.dump(clusters_output, f, indent=2)
         
     print(f"Generated {len(clusters_output)} clusters.")

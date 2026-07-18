@@ -274,13 +274,13 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 """
 
 def generate_dashboard():
-    with open("physics_questions_database.json", "r") as f:
+    with open("data/physics_questions_database.json", "r") as f:
         db = json.load(f)
         
-    with open("question_intelligence.json", "r") as f:
+    with open("data/question_intelligence.json", "r") as f:
         intelligence = json.load(f)
         
-    with open("question_clusters.json", "r") as f:
+    with open("data/question_clusters.json", "r") as f:
         clusters = json.load(f)
         
     injected_data = {
