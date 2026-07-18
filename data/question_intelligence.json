@@ -1,0 +1,454 @@
+{
+  "topics": {
+    "07": {
+      "topicName": "Alternating Current",
+      "priorityScore": 47.24,
+      "rawMetrics": {
+        "frequency": 140,
+        "compartmentBias": 0.0,
+        "averageMarks": 2.1954887218045114,
+        "recencyWeight": 140.0,
+        "derivationRatio": 0.1357142857142857,
+        "clusterDensity": 2.5925925925925926
+      },
+      "normalizedMetrics": {
+        "frequency": 34.23180592991914,
+        "compartmentBias": 50.0,
+        "averageMarks": 67.79302134187756,
+        "recencyWeight": 34.23180592991914,
+        "derivationRatio": 60.54945054945055,
+        "clusterDensity": 48.84359802502134
+      },
+      "statisticalTests": {
+        "chiSquare": "INSUFFICIENT_DATA",
+        "mannWhitneyU": "INSUFFICIENT_DATA",
+        "zTest": {
+          "statistic": 1.578326551885839,
+          "p_value": 0.11449060907399944,
+          "significant": false
+        },
+        "mannKendall": "INSUFFICIENT_DATA"
+      }
+    },
+    "01": {
+      "topicName": "Electric Charges and Fields",
+      "priorityScore": 49.0,
+      "rawMetrics": {
+        "frequency": 193,
+        "compartmentBias": 0.0,
+        "averageMarks": 2.142857142857143,
+        "recencyWeight": 193.0,
+        "derivationRatio": 0.16062176165803108,
+        "clusterDensity": 2.075268817204301
+      },
+      "normalizedMetrics": {
+        "frequency": 48.517520215633425,
+        "compartmentBias": 50.0,
+        "averageMarks": 64.58478821921967,
+        "recencyWeight": 48.517520215633425,
+        "derivationRatio": 71.66201673973694,
+        "clusterDensity": 18.250110472823682
+      },
+      "statisticalTests": {
+        "chiSquare": "INSUFFICIENT_DATA",
+        "mannWhitneyU": "INSUFFICIENT_DATA",
+        "zTest": {
+          "statistic": 2.9158119758769425,
+          "p_value": 0.0035476422694424837,
+          "significant": true
+        },
+        "mannKendall": "INSUFFICIENT_DATA"
+      }
+    },
+    "06": {
+      "topicName": "Electromagnetic Induction",
+      "priorityScore": 27.25,
+      "rawMetrics": {
+        "frequency": 53,
+        "compartmentBias": 0.0,
+        "averageMarks": 2.0384615384615383,
+        "recencyWeight": 53.0,
+        "derivationRatio": 0.09433962264150944,
+        "clusterDensity": 1.7666666666666666
+      },
+      "normalizedMetrics": {
+        "frequency": 10.781671159029651,
+        "compartmentBias": 50.0,
+        "averageMarks": 58.221204937464236,
+        "recencyWeight": 10.781671159029651,
+        "derivationRatio": 42.08998548621191,
+        "clusterDensity": 0.0
+      },
+      "statisticalTests": {
+        "chiSquare": "INSUFFICIENT_DATA",
+        "mannWhitneyU": "INSUFFICIENT_DATA",
+        "zTest": {
+          "statistic": -0.013928130093750572,
+          "p_value": 0.9888873193351919,
+          "significant": false
+        },
+        "mannKendall": "INSUFFICIENT_DATA"
+      }
+    },
+    "08": {
+      "topicName": "Electromagnetic Waves",
+      "priorityScore": 35.35,
+      "rawMetrics": {
+        "frequency": 165,
+        "compartmentBias": 0.0,
+        "averageMarks": 1.5555555555555556,
+        "recencyWeight": 165.0,
+        "derivationRatio": 0.012121212121212121,
+        "clusterDensity": 2.22972972972973
+      },
+      "normalizedMetrics": {
+        "frequency": 40.97035040431267,
+        "compartmentBias": 50.0,
+        "averageMarks": 28.784980517180315,
+        "recencyWeight": 40.97035040431267,
+        "derivationRatio": 5.407925407925408,
+        "clusterDensity": 27.384618163101297
+      },
+      "statisticalTests": {
+        "chiSquare": "INSUFFICIENT_DATA",
+        "mannWhitneyU": "INSUFFICIENT_DATA",
+        "zTest": {
+          "statistic": -3.607583588510228,
+          "p_value": 0.000309061985030756,
+          "significant": true
+        },
+        "mannKendall": "INSUFFICIENT_DATA"
+      }
+    },
+    "11": {
+      "topicName": "Dual Nature of Radiation and Matter",
+      "priorityScore": 34.06,
+      "rawMetrics": {
+        "frequency": 118,
+        "compartmentBias": 0.0,
+        "averageMarks": 1.6724137931034482,
+        "recencyWeight": 118.0,
+        "derivationRatio": 0.01694915254237288,
+        "clusterDensity": 2.5106382978723403
+      },
+      "normalizedMetrics": {
+        "frequency": 28.30188679245283,
+        "compartmentBias": 50.0,
+        "averageMarks": 35.90824141595515,
+        "recencyWeight": 28.30188679245283,
+        "derivationRatio": 7.5619295958279,
+        "clusterDensity": 43.99698587484271
+      },
+      "statisticalTests": {
+        "chiSquare": "INSUFFICIENT_DATA",
+        "mannWhitneyU": "INSUFFICIENT_DATA",
+        "zTest": {
+          "statistic": -2.8729425639708617,
+          "p_value": 0.004066680426597634,
+          "significant": true
+        },
+        "mannKendall": "INSUFFICIENT_DATA"
+      }
+    },
+    "13": {
+      "topicName": "Nuclei",
+      "priorityScore": 40.35,
+      "rawMetrics": {
+        "frequency": 116,
+        "compartmentBias": 0.0,
+        "averageMarks": 1.8245614035087718,
+        "recencyWeight": 116.0,
+        "derivationRatio": 0.12931034482758622,
+        "clusterDensity": 2.5217391304347827
+      },
+      "normalizedMetrics": {
+        "frequency": 27.762803234501348,
+        "compartmentBias": 50.0,
+        "averageMarks": 45.18261647743162,
+        "recencyWeight": 27.762803234501348,
+        "derivationRatio": 57.6923076923077,
+        "clusterDensity": 44.65346678481675
+      },
+      "statisticalTests": {
+        "chiSquare": "INSUFFICIENT_DATA",
+        "mannWhitneyU": "INSUFFICIENT_DATA",
+        "zTest": {
+          "statistic": 1.22142314304629,
+          "p_value": 0.22192584909588742,
+          "significant": false
+        },
+        "mannKendall": "INSUFFICIENT_DATA"
+      }
+    },
+    "09": {
+      "topicName": "Ray Optics and Optical Instruments",
+      "priorityScore": 65.73,
+      "rawMetrics": {
+        "frequency": 241,
+        "compartmentBias": 0.0,
+        "averageMarks": 2.723849372384937,
+        "recencyWeight": 241.0,
+        "derivationRatio": 0.14937759336099585,
+        "clusterDensity": 2.835294117647059
+      },
+      "normalizedMetrics": {
+        "frequency": 61.45552560646901,
+        "compartmentBias": 50.0,
+        "averageMarks": 100.0,
+        "recencyWeight": 61.45552560646901,
+        "derivationRatio": 66.64538780721352,
+        "clusterDensity": 63.19647805664197
+      },
+      "statisticalTests": {
+        "chiSquare": "INSUFFICIENT_DATA",
+        "mannWhitneyU": "INSUFFICIENT_DATA",
+        "zTest": {
+          "statistic": 2.6718939443872363,
+          "p_value": 0.0075424482297995876,
+          "significant": true
+        },
+        "mannKendall": "INSUFFICIENT_DATA"
+      }
+    },
+    "03": {
+      "topicName": "Current Electricity",
+      "priorityScore": 68.62,
+      "rawMetrics": {
+        "frequency": 384,
+        "compartmentBias": 0.0,
+        "averageMarks": 2.0454545454545454,
+        "recencyWeight": 384.0,
+        "derivationRatio": 0.09114583333333333,
+        "clusterDensity": 2.4150943396226414
+      },
+      "normalizedMetrics": {
+        "frequency": 100.0,
+        "compartmentBias": 50.0,
+        "averageMarks": 58.64747367404116,
+        "recencyWeight": 100.0,
+        "derivationRatio": 40.6650641025641,
+        "clusterDensity": 38.34670835723606
+      },
+      "statisticalTests": {
+        "chiSquare": "INSUFFICIENT_DATA",
+        "mannWhitneyU": "INSUFFICIENT_DATA",
+        "zTest": {
+          "statistic": -0.23227776039884002,
+          "p_value": 0.8163222847390539,
+          "significant": false
+        },
+        "mannKendall": "INSUFFICIENT_DATA"
+      }
+    },
+    "14": {
+      "topicName": "Semiconductor Electronics",
+      "priorityScore": 54.25,
+      "rawMetrics": {
+        "frequency": 204,
+        "compartmentBias": 0.0,
+        "averageMarks": 2.03,
+        "recencyWeight": 204.0,
+        "derivationRatio": 0.0,
+        "clusterDensity": 3.457627118644068
+      },
+      "normalizedMetrics": {
+        "frequency": 51.482479784366575,
+        "compartmentBias": 50.0,
+        "averageMarks": 57.705419766206155,
+        "recencyWeight": 51.482479784366575,
+        "derivationRatio": 0.0,
+        "clusterDensity": 100.0
+      },
+      "statisticalTests": {
+        "chiSquare": "INSUFFICIENT_DATA",
+        "mannWhitneyU": "INSUFFICIENT_DATA",
+        "zTest": {
+          "statistic": -4.623116567599873,
+          "p_value": 3.7801715278186777e-06,
+          "significant": true
+        },
+        "mannKendall": "INSUFFICIENT_DATA"
+      }
+    },
+    "04": {
+      "topicName": "Moving Charges and Magnetism",
+      "priorityScore": 44.83,
+      "rawMetrics": {
+        "frequency": 116,
+        "compartmentBias": 0.0,
+        "averageMarks": 1.9043478260869566,
+        "recencyWeight": 116.0,
+        "derivationRatio": 0.22413793103448276,
+        "clusterDensity": 2.4680851063829787
+      },
+      "normalizedMetrics": {
+        "frequency": 27.762803234501348,
+        "compartmentBias": 50.0,
+        "averageMarks": 50.04611190685211,
+        "recencyWeight": 27.762803234501348,
+        "derivationRatio": 100.0,
+        "clusterDensity": 41.48047571994228
+      },
+      "statisticalTests": {
+        "chiSquare": "INSUFFICIENT_DATA",
+        "mannWhitneyU": "INSUFFICIENT_DATA",
+        "zTest": {
+          "statistic": 4.5081216074617885,
+          "p_value": 6.540408741858414e-06,
+          "significant": true
+        },
+        "mannKendall": "INSUFFICIENT_DATA"
+      }
+    },
+    "02": {
+      "topicName": "Electrostatic Potential and Capacitance",
+      "priorityScore": 51.24,
+      "rawMetrics": {
+        "frequency": 201,
+        "compartmentBias": 0.0,
+        "averageMarks": 2.33502538071066,
+        "recencyWeight": 201.0,
+        "derivationRatio": 0.0945273631840796,
+        "clusterDensity": 2.364705882352941
+      },
+      "normalizedMetrics": {
+        "frequency": 50.673854447439346,
+        "compartmentBias": 50.0,
+        "averageMarks": 76.2986778295042,
+        "recencyWeight": 50.673854447439346,
+        "derivationRatio": 42.17374665135859,
+        "clusterDensity": 35.36683634362532
+      },
+      "statisticalTests": {
+        "chiSquare": "INSUFFICIENT_DATA",
+        "mannWhitneyU": "INSUFFICIENT_DATA",
+        "zTest": {
+          "statistic": -0.01757910533917203,
+          "p_value": 0.9859746256259573,
+          "significant": false
+        },
+        "mannKendall": "INSUFFICIENT_DATA"
+      }
+    },
+    "12": {
+      "topicName": "Atoms",
+      "priorityScore": 34.76,
+      "rawMetrics": {
+        "frequency": 74,
+        "compartmentBias": 0.0,
+        "averageMarks": 1.8767123287671232,
+        "recencyWeight": 74.0,
+        "derivationRatio": 0.12162162162162163,
+        "clusterDensity": 2.3870967741935485
+      },
+      "normalizedMetrics": {
+        "frequency": 16.442048517520217,
+        "compartmentBias": 50.0,
+        "averageMarks": 48.36155066746248,
+        "recencyWeight": 16.442048517520217,
+        "derivationRatio": 54.26195426195426,
+        "clusterDensity": 36.690988650938216
+      },
+      "statisticalTests": {
+        "chiSquare": "INSUFFICIENT_DATA",
+        "mannWhitneyU": "INSUFFICIENT_DATA",
+        "zTest": {
+          "statistic": 0.7675505222341156,
+          "p_value": 0.44275426686217634,
+          "significant": false
+        },
+        "mannKendall": "INSUFFICIENT_DATA"
+      }
+    },
+    "10": {
+      "topicName": "Wave Optics",
+      "priorityScore": 42.65,
+      "rawMetrics": {
+        "frequency": 114,
+        "compartmentBias": 0.0,
+        "averageMarks": 2.2232142857142856,
+        "recencyWeight": 114.0,
+        "derivationRatio": 0.05263157894736842,
+        "clusterDensity": 2.7804878048780486
+      },
+      "normalizedMetrics": {
+        "frequency": 27.22371967654987,
+        "compartmentBias": 50.0,
+        "averageMarks": 69.48307271899196,
+        "recencyWeight": 27.22371967654987,
+        "derivationRatio": 23.481781376518217,
+        "clusterDensity": 59.95534295469916
+      },
+      "statisticalTests": {
+        "chiSquare": "INSUFFICIENT_DATA",
+        "mannWhitneyU": "INSUFFICIENT_DATA",
+        "zTest": {
+          "statistic": -1.5163672710339668,
+          "p_value": 0.12942651010824904,
+          "significant": false
+        },
+        "mannKendall": "INSUFFICIENT_DATA"
+      }
+    },
+    "05": {
+      "topicName": "Magnetism and Matter",
+      "priorityScore": 19.07,
+      "rawMetrics": {
+        "frequency": 28,
+        "compartmentBias": 0.0,
+        "averageMarks": 1.1428571428571428,
+        "recencyWeight": 28.0,
+        "derivationRatio": 0.0,
+        "clusterDensity": 2.5454545454545454
+      },
+      "normalizedMetrics": {
+        "frequency": 4.0431266846361185,
+        "compartmentBias": 50.0,
+        "averageMarks": 3.6283588887202076,
+        "recencyWeight": 4.0431266846361185,
+        "derivationRatio": 0.0,
+        "clusterDensity": 46.055948728852165
+      },
+      "statisticalTests": {
+        "chiSquare": "INSUFFICIENT_DATA",
+        "mannWhitneyU": "INSUFFICIENT_DATA",
+        "zTest": {
+          "statistic": -1.7127105988852531,
+          "p_value": 0.08676579427223023,
+          "significant": false
+        },
+        "mannKendall": "INSUFFICIENT_DATA"
+      }
+    },
+    "15": {
+      "topicName": "Communication Systems",
+      "priorityScore": 17.39,
+      "rawMetrics": {
+        "frequency": 13,
+        "compartmentBias": 0.0,
+        "averageMarks": 1.0833333333333333,
+        "recencyWeight": 13.0,
+        "derivationRatio": 0.0,
+        "clusterDensity": 2.6
+      },
+      "normalizedMetrics": {
+        "frequency": 0.0,
+        "compartmentBias": 50.0,
+        "averageMarks": 0.0,
+        "recencyWeight": 0.0,
+        "derivationRatio": 0.0,
+        "clusterDensity": 49.28165720013365
+      },
+      "statisticalTests": {
+        "chiSquare": "INSUFFICIENT_DATA",
+        "mannWhitneyU": "INSUFFICIENT_DATA",
+        "zTest": {
+          "statistic": -1.167011872647803,
+          "p_value": 0.24320557492243888,
+          "significant": false
+        },
+        "mannKendall": "INSUFFICIENT_DATA"
+      }
+    }
+  }
+}
